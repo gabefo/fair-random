@@ -1,0 +1,24 @@
+{
+  "name": "fair-random",
+  "version": "1.0.0",
+  "description": "A simple utility to generate random numbers using a provable fair algorithm.",
+  "repository": "https://github.com/gabefo/fair-random",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "node --test ./test/index.js"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "provable",
+    "fair",
+    "fairness",
+    "crypto",
+    "util",
+    "utility"
+  ],
+  "author": "Gabriel Miranda",
+  "license": "MIT"
+}
